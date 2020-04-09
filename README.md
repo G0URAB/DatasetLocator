@@ -12,5 +12,5 @@
 - In maps.html, we have only one div with one id called "map" which is be mounted inside js script to render the location of the dataset.
 
 ## Run the application
-- It can be run directly from command line as **mvn sprint-boot:run**.
+- It can be run directly from command line as **mvn sprint-boot:run**. Next open a browser and type localhost:8080 or localhost:8000.
 - The app is reading a model from Resources/testdata.ttl and dataset URI is being passed in the controller file which is located at "**hackathon\src\main\java\hackathon\DatasetMapVisualController**"
